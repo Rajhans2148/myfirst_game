@@ -2,6 +2,7 @@ import random as r
 print("welcom to word guessing game!")
 print("arrange the word in a correct meaning")
 print("let's enjjoy the game")
+print("be carefull ")
 def start():
     list=["java","ruby","python","html","javascript","game",]
     item=r.choice(list)
